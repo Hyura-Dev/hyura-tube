@@ -22,7 +22,7 @@
 
 ## Tech Stack  
 <p>  
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,tailwind&perline=7" />  
+  <img src="https://skillicons.dev/icons?i=mongodb,nextjs,react,nodejs,tailwind&perline=7" />  
 </p>  
 
 ## Quick Start  
