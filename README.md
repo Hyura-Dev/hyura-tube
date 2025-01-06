@@ -36,19 +36,15 @@ cd hyuratube && npm install
 
 # Run the development server  
 npm run dev
-
-Documentation
-
-For detailed documentation, visit coming soon
-
-Support
-
-Docs: docs.hyuratube.com
-
-Issues: github.com/henryjonathnn/hyuratube/issues
+```
+## Documentation
+For detailed documentation, visit [coming soon](https://github.com/Hyura-Dev/hyura-tube.git)
 
 
-License
+## Support
+- Docs: [docs.bookoo.com](https://github.com/Hyura-Dev/hyura-tube.git)
+- Issues: [github.com/Hyura-Dev/hyura-tube/issues](https://github.com/Hyura-Dev/hyura-tube/issues)
 
+## License
 © 2025 HyuraDev. All rights reserved.
 
